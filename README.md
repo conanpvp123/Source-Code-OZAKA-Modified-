@@ -1,2 +1,5 @@
 # Source-Code-OZAKA-Modified-
-code nso đẹp zai đc chỉnh sửa
+cài jdk 8 (có jvm-server để chạy src trên dist jar/cmd)
+chạy trên netbean ide
+có csdl xampp/appserve hoặc host
+setup tự vọc / trên ytb có
