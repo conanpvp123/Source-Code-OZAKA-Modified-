@@ -1,0 +1,4 @@
+Ghi Chú :
+- Kết Nối Cơ Sở Dữ Liệu Tại
++ Projects : Source Packages\ninja.server\GameScr.java
++ Files : src\ninja\server\GameScr.java
